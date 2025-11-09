@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "Modern Office Complex",
+      "ar": "مجمع مكاتب حديث"
+    },
+    "description": {
+      "en": "A state-of-the-art office complex featuring sustainable design and advanced BIM integration.",
+      "ar": "مجمع مكاتب حديث يتميز بتصميم مستدام وتكامل متقدم مع BIM."
+    },
+    "images": [],
+    "date": "2024-01-15",
+    "category": "Architecture"
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Residential Tower",
+      "ar": "برج سكني"
+    },
+    "description": {
+      "en": "High-rise residential tower with innovative structural design and comprehensive supervision.",
+      "ar": "برج سكني شاهق بتصميم إنشائي مبتكر وإشراف شامل."
+    },
+    "images": [],
+    "date": "2024-02-20",
+    "category": "Structural Design"
+  }
+]
+

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "New BIM Technology Implementation",
+      "ar": "تنفيذ تقنية BIM الجديدة"
+    },
+    "summary": {
+      "en": "We are proud to announce the implementation of cutting-edge BIM technology in our latest projects.",
+      "ar": "نفخر بالإعلان عن تنفيذ تقنية BIM المتطورة في أحدث مشاريعنا."
+    },
+    "image": "",
+    "date": "2024-03-10",
+    "content": {
+      "en": "Our team has successfully integrated advanced BIM technology to enhance project coordination and efficiency.",
+      "ar": "نجح فريقنا في دمج تقنية BIM المتقدمة لتعزيز تنسيق المشاريع والكفاءة."
+    }
+  }
+]
+

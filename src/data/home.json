@@ -1,0 +1,62 @@
+{
+  "heroSlides": [
+    {
+      "image": "",
+      "title": {
+        "en": "Engineering the Future",
+        "ar": "هندسة المستقبل"
+      },
+      "subtitle": {
+        "en": "Excellence in Engineering, Architecture, BIM & Supervision",
+        "ar": "التميز في الهندسة والهندسة المعمارية وBIM والإشراف"
+      }
+    }
+  ],
+  "featuredServices": [
+    {
+      "title": {
+        "en": "Architecture",
+        "ar": "الهندسة المعمارية"
+      },
+      "description": {
+        "en": "Innovative architectural design solutions",
+        "ar": "حلول تصميم معماري مبتكرة"
+      },
+      "icon": "🏛️"
+    },
+    {
+      "title": {
+        "en": "Structural Design",
+        "ar": "التصميم الإنشائي"
+      },
+      "description": {
+        "en": "Robust structural engineering services",
+        "ar": "خدمات هندسة إنشائية قوية"
+      },
+      "icon": "🏗️"
+    },
+    {
+      "title": {
+        "en": "Supervision",
+        "ar": "الإشراف"
+      },
+      "description": {
+        "en": "Comprehensive project supervision",
+        "ar": "إشراف شامل على المشاريع"
+      },
+      "icon": "👷"
+    },
+    {
+      "title": {
+        "en": "BIM Services",
+        "ar": "خدمات BIM"
+      },
+      "description": {
+        "en": "Building Information Modeling expertise",
+        "ar": "خبرة في نمذجة معلومات البناء"
+      },
+      "icon": "💻"
+    }
+  ]
+}
+
